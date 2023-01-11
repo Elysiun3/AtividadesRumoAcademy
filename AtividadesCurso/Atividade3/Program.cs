@@ -49,7 +49,7 @@ namespace Atividade3
 
             decimal salarioEsseMes = salarioMensal + lucroFinalTvs + lucroFinalSmartphones;
 
-            Console.WriteLine($"o salario do {nomeFuncionario} será {salarioEsseMes} esse mês");
+            Console.WriteLine($"o salario do {nomeFuncionario} será R$ {salarioEsseMes} esse mês, sendo R$ {salarioMensal} de salario fixo e R$ {lucroFinalTvs + lucroFinalSmartphones} de comissão");
 
 
         }
