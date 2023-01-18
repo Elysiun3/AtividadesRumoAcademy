@@ -111,7 +111,7 @@ namespace AtividadePetShop.Servicos
                     break;
                 }
             }
-            Console.Write("Endereço (Exemplo: Rua k 111, centro, Belo Horizonte): ");
+            Console.Write("Endereço (Exemplo: Rua k 111 centro Belo Horizonte): ");
             string endereco = "";
             while (true)
             {
